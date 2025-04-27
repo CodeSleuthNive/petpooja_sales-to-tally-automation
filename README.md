@@ -21,14 +21,14 @@ This tool simplifies the accounting process for restaurants by formatting raw Pe
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/petpooja-tally-converter.git
+   git clone https://github.com/your-username/petpooja_sales-to-tally-automation.git
    cd petpooja-tally-converter
    ```
 
 2. **Set Up Virtual Environment (Optional but Recommended)**
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scriptsctivate`
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    ```
 
 3. **Install Dependencies**
