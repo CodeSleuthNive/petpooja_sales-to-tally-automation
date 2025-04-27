@@ -21,8 +21,8 @@ This tool simplifies the accounting process for restaurants by formatting raw Pe
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/petpooja_sales-to-tally-automation.git
-   cd petpooja-tally-converter
+   git clone https://github.com/CodeSleuthNive/petpooja_sales-to-tally-automation.git
+   cd petpooja_sales-to-tally-automation
    ```
 
 2. **Set Up Virtual Environment (Optional but Recommended)**
