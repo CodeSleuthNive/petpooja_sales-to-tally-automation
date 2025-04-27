@@ -1,0 +1,15 @@
+﻿date,restaurant_name,invoice_no,order_type,payment_type,item_name,item_quantity,item_price,discount,container_charge,service_charge,additional_charge,delivery_charge,status,customer_name
+25-04-2025,Snacks Hub Chennai,1001,Dine In,Cash,Egg Puff,2,30,5,2,1,0,0,Success,
+25-04-2025,Snacks Hub Mumbai,1001,Dine In,Cash,Dahi Puri,2,40,5,2,1,0,0,Success,
+25-04-2025,Snacks Hub Mumbai,1001,Dine In,Cash,Chicken Sandwich,2,40,5,2,1,0,0,Success,
+25-04-2025,Snacks Hub Mumbai,1001,Dine In,Cash,Pani Puri,2,40,5,2,1,0,0,Success,
+25-04-2025,Snacks Hub Mumbai,1001,Dine In,Cash,Veg Sandwich,2,40,5,2,1,0,0,Success,
+25-04-2025,Snacks Hub Mumbai,1002,Online,Swiggy,Vada Paav,3,40,0,0,0,2,5,Success,
+25-04-2025,Snacks Hub Kerala,1003,Pick Up,CARD,Veg Sandwich,1,30,2,1,1,0,0,Success,
+25-04-2025,Snacks Hub Banglore,1004,Online,Zomato,Dahi Puri,2,40,0,0,0,1,3,Success,
+25-04-2025,Snacks Hub Chennai,1005,Dine In,Other [UPI],Chicken Sandwich,2,50,0,1,1,0,0,Success,
+25-04-2025,Snacks Hub Mumbai,1006,Pick Up,Due Payment,Egg Puff,4,30,4,2,1,1,0,Success,XYZ
+25-04-2025,Snacks Hub Kerala,1007,Online,Swiggy,Samosa,5,25,0,0,0,0,4,Success,
+25-04-2025,Snacks Hub Banglore,1008,Dine In,Cash,Pani Puri,3,20,2,1,0,0,0,Cancelled,
+25-04-2025,Snacks Hub Chennai,1009,Pick Up,CARD,Chicken Sandwich,1,50,3,1,0,0,0,Success,
+25-04-2025,Snacks Hub Mumbai,1010,Online,Swiggy,Dahi Puri,2,40,0,0,0,1,5,Success,
