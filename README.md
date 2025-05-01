@@ -1,5 +1,5 @@
 
-# Petpooja to Tally Converter
+# Excel2Tally - Sales (Petpooja data to Tally Converter)
 
 ## Overview
 The **Petpooja to Tally Converter** is a Streamlit-based web application that allows users to upload Petpooja sales CSV files and download Tally-compatible Excel sheets.  
